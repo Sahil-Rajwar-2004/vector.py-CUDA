@@ -30,14 +30,25 @@ print(y.array())                            # output: [1 2 3 4]
 
 2. navigate to vector directory that you just downloaded/cloned
 
-3. For Windows Users:
+3. see below instruction for different OS:
+
+    ### Windows Users:
+    
+    run `install.ps1` script on your current working directory
+
     ```powershell
     pwsh install.ps1
     ```
 
-### or
-4. For Linux / MacOS Users:
+    ### Linux / MacOS:
+    
+    run `install.sh` script on your current working directory
+
     ```bash
     bash install.sh
     ```
 
+
+## LICENSE
+
+### MIT
